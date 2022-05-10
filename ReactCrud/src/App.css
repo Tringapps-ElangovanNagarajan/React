@@ -6,14 +6,14 @@
 }
 label{
   display: inline-block;
-  width: 120px;
+  width: 100px;
   text-align: left;
 }
 #dob, #about, #name{
-  width: 150px;
+  width: 130px;
 }
 form{
-  margin: 50px;
+  margin: 70px;
 }
 .showAllDetails{
   text-align: center;
@@ -23,5 +23,5 @@ form{
   flex-wrap: wrap;
 }
 .eachUser{
-  margin: 30px;
+  margin: 50px;
 }
